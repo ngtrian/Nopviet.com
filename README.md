@@ -1,2 +1,2 @@
-# docs.nopviet.com
-http://docs.nopviet.com
+# nopviet.com
+https://nopviet.com
